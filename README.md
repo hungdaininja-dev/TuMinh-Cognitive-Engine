@@ -62,5 +62,7 @@ python khai_nhan_chat.py
 (Mẹo cho người mới: Bạn cũng có thể cài đặt Extension Page Assist trên trình duyệt Chrome/Edge để kết nối trực tiếp với TuMinh, cho phép phân tích tài liệu và đọc hiểu trang web).
 
 TuMinh (Lucian) - Nâng tầm tư duy, bảo vệ ý tưởng. Kiến tạo bởi GenesisArchitect.
+link tải google driver: https://drive.google.com/file/d/1kknm2a9F5jGb6MfYzkoLy9U3qFpXEXsX/view?usp=sharing
 
 📧 Liên hệ / Hỗ trợ: hungdaininja@gmail.com
+
